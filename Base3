@@ -5,3 +5,4 @@ def sumList (list nums):
     for i in nums:
         sum += i
     return sum
+    
